@@ -22,7 +22,8 @@ To install: first. clone this repository to your desired location; second. run n
 ## Usage
 To use this application, cd into directory including the index.js file, open terminal and run command $ node index.js , answer prompts and your file will be created in the same directory as your index.js.
 
-
+## Contributors
+Jacob McKitrick
 
 ## Tests
 

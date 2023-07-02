@@ -1,14 +1,6 @@
 // Function to generate the README content
 function generateReadme(answers) {
-    let contributorsSection = '';
 
-    if (answers.contributors && answers.contributors.length > 0) {
-        contributorsSection = `## Contributors\n\n`;
-        answers.contributors.forEach((contributor) => {
-            contributorsSection += `- ${contributor}\n`;
-        });
-        contributorsSection += '\n';
-    }
     let licenseBadge = '';
     let licenseNotice = '';
 
@@ -48,7 +40,8 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 
-${contributorsSection}
+## Contributors
+${answers.contributor}
 
 ${testsSection}
 
