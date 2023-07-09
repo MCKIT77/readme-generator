@@ -30,6 +30,11 @@ Jacob McKitrick
 N/A
 
 
+## Links
+
+Github Repo: https://github.com/MCKIT77/readme-generator
+
+[Demo Video](<media/Untitled_ Jul 6, 2023 6_31 PM.webm>)
 
 ## Questions
 For any questions or inquiries, please contact me via GitHub or email:
@@ -37,3 +42,5 @@ For any questions or inquiries, please contact me via GitHub or email:
 GitHub: [MCKIT77](https://github.com/MCKIT77)
 
 Email: jakemckit@gmail.com
+
+
